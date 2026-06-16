@@ -1,0 +1,1296 @@
+[
+    {
+        "Oficio": "214-1-14468180/2026",
+        "Folio_Sugo": "260202073CNBASE",
+        "Expediente": "A/TF1-2606-109614-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109614-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468180-2026.doc",
+        "Archivo_XML": "214-1-14468180-2026.xml",
+        "autoridad_extraida": "LA ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE CHIHUAHUA “1”",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468180/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109614-MCA",
+                "Cnbv_SolicitudSiara": "AGRADRCHIH1/2026/000557",
+                "Cnbv_Folio": "109614",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE CHIHUAHUA “1”",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "400-22-00-02-01-2026-3697",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Contribuyente Determinado",
+                    "Persona": "Fisica",
+                    "Paterno": "N/A",
+                    "Materno": "N/A",
+                    "Nombre": "N/A",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Contribuyente Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "UNION DE CREDITO IMPULSA SA DE CV",
+                            "Rfc": "UCI940616PQA",
+                            "Relacion": "",
+                            "Domicilio": "TEOFILO BORUNDA, EXT. 2013, INT. 8, COL. MIRADOR, C.P. 31205, CHIHUAHUA, CHIHUAHUA",
+                            "Complementarios": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468181/2026",
+        "Folio_Sugo": "260202074CNBASE",
+        "Expediente": "A/TF1-2606-109615-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109615-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468181-2026.doc",
+        "Archivo_XML": "214-1-14468181-2026.xml",
+        "autoridad_extraida": "LA ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE CHIHUAHUA “1”",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468181/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109615-MCA",
+                "Cnbv_SolicitudSiara": "AGRADRCHIH1/2026/000558",
+                "Cnbv_Folio": "109615",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE CHIHUAHUA “1”",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "400-22-00-02-01-2026-3698",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Contribuyente Determinado",
+                    "Persona": "Fisica",
+                    "Paterno": "N/A",
+                    "Materno": "N/A",
+                    "Nombre": "N/A",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Contribuyente Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "UNION DE CREDITO IMPULSA SA DE CV",
+                            "Rfc": "UCI940616PQA",
+                            "Relacion": "",
+                            "Domicilio": "TEOFILO BORUNDA, EXT. 2013, INT. 8, COL. MIRADOR, C.P. 31205, CHIHUAHUA, CHIHUAHUA",
+                            "Complementarios": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468184/2026",
+        "Folio_Sugo": "260202045CNBASE",
+        "Expediente": "A/TF1-2606-109618-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109618-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468184-2026.doc",
+        "Archivo_XML": "214-1-14468184-2026.xml",
+        "autoridad_extraida": "LA ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE MORELOS “1”",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468184/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109618-MCA",
+                "Cnbv_SolicitudSiara": "AGRADRMORE1/2026/000149",
+                "Cnbv_Folio": "109618",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE MORELOS “1”",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "400-40-00-03-01-2026-3435",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Contribuyente Determinado",
+                    "Persona": "Fisica",
+                    "Paterno": "N/A",
+                    "Materno": "N/A",
+                    "Nombre": "N/A",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Contribuyente Determinado",
+                            "Persona": "Fisica",
+                            "Paterno": "PAREDES",
+                            "Materno": "RAMIREZ",
+                            "Nombre": "MARTHA",
+                            "Rfc": "PARM660915379",
+                            "Relacion": "",
+                            "Domicilio": "CARR ALP JOJUTLA KM 4.5, EXT. SN, C.P. 62670, PUENTE DE IXTLA, MORELOS.",
+                            "Complementarios": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468186/2026",
+        "Folio_Sugo": "260202046CNBASE",
+        "Expediente": "A/TF1-2606-109623-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109623-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468186-2026.doc",
+        "Archivo_XML": "214-1-14468186-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION CIUDAD DE CAMPECHE",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468186/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109623-MCA",
+                "Cnbv_SolicitudSiara": "IMSSCC0401/2026/000555",
+                "Cnbv_Folio": "109623",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION CIUDAD DE CAMPECHE",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/04/01/000555/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "MADERAS RURALES Y PRODUCTOS DEL CAMPO GARMO SPR DE.",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "Para efectos de la inmovilización ordenada en el presente oficio, se solicita instruya a las Instituciones de Crédito y Entidades Financieras, para que los depósitos en cuentas  sean identificados, inmovilizados, retenidos y conservados a disposición del Instituto Mexicano del Seguro Social, hasta por el monto antes indicado, no así el excedente que pudiera existir en la cuenta objeto de embargo; apercibiéndoles de doble pago en caso de desobediencia, en términos de lo dispuesto en el artículo 160 del Código Fiscal de la Federación, exceptuando de embargo las cuentas destinadas al pago de sueldos y salarios, de conformidad con lo señalado en el artículo 157, fracción X del mismo ordenamiento legal. \n\t\nAsimismo se debe de estar a lo preceptuado en los artículos 142 de la Ley de Instituciones de Crédito y 192 de la Ley del Mercado de Valores.\n\t\nFinalmente, es importante que esa H. Comisión nos dé a conocer los datos sobre el importe de los depósitos inmovilizados, el número y tipo de cuenta, la fecha de inmovilización, así como la denominación de la Institución de Crédito o Entidad Financiera en donde se localizaron los saldos. Cumpliendo con el plazo de tres días.",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "MADERAS RURALES Y PRODUCTOS DEL CAMPO GARMO SPR DE.",
+                            "Rfc": "MRP190806UF6",
+                            "Relacion": "",
+                            "Domicilio": "22 1033 ESCARCEGA CENTRO ESCARCEGA CAMPECHE CP24350",
+                            "Complementarios": "X691281810"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468190/2026",
+        "Folio_Sugo": "260202048CNBASE",
+        "Expediente": "A/TF1-2606-109636-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109636-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468190-2026.doc",
+        "Archivo_XML": "214-1-14468190-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION SALTILLO",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468190/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109636-MCA",
+                "Cnbv_SolicitudSiara": "IMSSCC0503/2026/001142",
+                "Cnbv_Folio": "109636",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION SALTILLO",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/0503/001187/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "COMERCIALIZADORA XOJA SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "COMERCIALIZADORA XOJA SA DE CV",
+                            "Rfc": "CXO180112TZ4",
+                            "Relacion": "",
+                            "Domicilio": "MEXICO 124 COLONIA LOS ALAMOS; SALTILLO COAHUILA",
+                            "Complementarios": "A367257310"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468195/2026",
+        "Folio_Sugo": "260202049CNBASE",
+        "Expediente": "A/TF1-2606-109650-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109650-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468195-2026.doc",
+        "Archivo_XML": "214-1-14468195-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION TORREON",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468195/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109650-MCA",
+                "Cnbv_SolicitudSiara": "IMSSCC0509/2026/001140",
+                "Cnbv_Folio": "109650",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION TORREON",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/05/09/1560/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "NAVARRICA S.P.R. DE R.L.",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "NAVARRICA S.P.R. DE R.L.",
+                            "Rfc": "NSR9809261Z8",
+                            "Relacion": "",
+                            "Domicilio": "P P EL CAMBIO KM8 CARR LA PARTIDA EL CUI",
+                            "Complementarios": "A2612188-13"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468196/2026",
+        "Folio_Sugo": "260202050CNBASE",
+        "Expediente": "A/TF1-2606-109653-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109653-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468196-2026.doc",
+        "Archivo_XML": "214-1-14468196-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION TORREON",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468196/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109653-MCA",
+                "Cnbv_SolicitudSiara": "IMSSCC0509/2026/001141",
+                "Cnbv_Folio": "109653",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION TORREON",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/05/09/1558/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "NAVARRICA SPR DE RL",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "NAVARRICA SPR DE RL",
+                            "Rfc": "NSR9809261Z8",
+                            "Relacion": "",
+                            "Domicilio": "P P EL CAMBIO KM8 CARR LA PARTIDA EL CUI",
+                            "Complementarios": "A261218813"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468197/2026",
+        "Folio_Sugo": "260202051CNBASE",
+        "Expediente": "A/TF1-2606-109655-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109655-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468197-2026.doc",
+        "Archivo_XML": "214-1-14468197-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION TORREON",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468197/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109655-MCA",
+                "Cnbv_SolicitudSiara": "IMSSCC0509/2026/001142",
+                "Cnbv_Folio": "109655",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION TORREON",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/05/09/1565/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "COMERCIALIZADORA DE CARNES FINAS SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "COMERCIALIZADORA DE CARNES FINAS SA DE CV",
+                            "Rfc": "CCF960712PT3",
+                            "Relacion": "",
+                            "Domicilio": "CALLE DIAGONAL REFORMA 3201",
+                            "Complementarios": "A401969210"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468201/2026",
+        "Folio_Sugo": "260202052CNBASE",
+        "Expediente": "A/TF1-2606-109668-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109668-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468201-2026.doc",
+        "Archivo_XML": "214-1-14468201-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, DELEGACION YUCATAN",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468201/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109668-MCA",
+                "Cnbv_SolicitudSiara": "INFONAVITYUC/2026/000938",
+                "Cnbv_Folio": "109668",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "DELEGACION YUCATAN",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "YUC/TRANSF.FONDOS/0123/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "TIENDAS SORIANA SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "TIENDAS SORIANA SA DE CV",
+                            "Rfc": "TSO991022PB6",
+                            "Relacion": "",
+                            "Domicilio": "80 256 PROGRESO DE CASTRO CENTRO PROGRESO YUCATAN CP 97320",
+                            "Complementarios": "G6714812103"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468208/2026",
+        "Folio_Sugo": "260202053CNBASE",
+        "Expediente": "A/TF1-2606-109689-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109689-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468208-2026.doc",
+        "Archivo_XML": "214-1-14468208-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, DELEGACION YUCATAN",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468208/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109689-MCA",
+                "Cnbv_SolicitudSiara": "INFONAVITYUC/2026/000956",
+                "Cnbv_Folio": "109689",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "DELEGACION YUCATAN",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "YUC/TRANSF.FONDOS/0131/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "UNIVERSIDAD DE VALLADOLID YUCATAN AC",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "UNIVERSIDAD DE VALLADOLID YUCATAN AC",
+                            "Rfc": "UVY040401320",
+                            "Relacion": "",
+                            "Domicilio": "12 102 SAN FRANCISCO VALLADOLID YUCATAN CP 97783",
+                            "Complementarios": "G9413611107"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468211/2026",
+        "Folio_Sugo": "260202054CNBASE",
+        "Expediente": "A/TF1-2606-109695-MCA",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109695-MCA",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468211-2026.doc",
+        "Archivo_XML": "214-1-14468211-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, DELEGACION YUCATAN",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468211/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109695-MCA",
+                "Cnbv_SolicitudSiara": "INFONAVITYUC/2026/000960",
+                "Cnbv_Folio": "109695",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "DELEGACION YUCATAN",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "YUC/TRANSF.FONDOS/0134/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón",
+                    "Persona": "Fisica",
+                    "Paterno": "QUINTAL",
+                    "Materno": "CARDENAS",
+                    "Nombre": "FELIX ALBERTO",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón",
+                            "Persona": "Fisica",
+                            "Paterno": "QUINTAL",
+                            "Materno": "CARDENAS",
+                            "Nombre": "FELIX ALBERTO",
+                            "Rfc": "QUCF450515SY5",
+                            "Relacion": "",
+                            "Domicilio": "33 DIAG X 46 Y 48 369A CENTRO MERIDA YUCATAN CP 97000",
+                            "Complementarios": "Z3813231100"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468216/2026",
+        "Folio_Sugo": "260202056CNBASE",
+        "Expediente": "A/TF1-2606-109714-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109714-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468216-2026.doc",
+        "Archivo_XML": "214-1-14468216-2026.xml",
+        "autoridad_extraida": "LA ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE NUEVO LEON “3”",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468216/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109714-PHM",
+                "Cnbv_SolicitudSiara": "AGRADRNLEO3/2026/000515",
+                "Cnbv_Folio": "109714",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE NUEVO LEON “3”",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "400-44-00-02-03-2026-4937",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Contribuyente Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "NO APLICA",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Contribuyente Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "CALIDAD EN RECURSOS Y SERVICIOS SA DE CV",
+                            "Rfc": "CRS020603S28",
+                            "Relacion": "",
+                            "Domicilio": "JOSE VASCONCELOS, EXT. 677, INT. LOCAL 10, COL. DEL VALLE, C.P. 66220, SAN PEDRO GARZA GARCIA, NUEVO LEON",
+                            "Complementarios": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468217/2026",
+        "Folio_Sugo": "260202057CNBASE",
+        "Expediente": "A/TF1-2606-109718-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109718-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468217-2026.doc",
+        "Archivo_XML": "214-1-14468217-2026.xml",
+        "autoridad_extraida": "LA ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE NUEVO LEON “3”",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468217/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109718-PHM",
+                "Cnbv_SolicitudSiara": "AGRADRNLEO3/2026/000516",
+                "Cnbv_Folio": "109718",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "ADMINISTRACION DESCONCENTRADA DE RECAUDACION DE NUEVO LEON “3”",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "400-44-00-02-03-2026-4938",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Contribuyente Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "NO APLICA",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Contribuyente Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "CALIDAD EN RECURSOS Y SERVICIOS SA DE CV",
+                            "Rfc": "CRS020603S28",
+                            "Relacion": "",
+                            "Domicilio": "JOSE VASCONCELOS, EXT. 677, INT. LOCAL 10, COL. DEL VALLE, C.P. 66220, SAN PEDRO GARZA GARCIA, NUEVO LEON",
+                            "Complementarios": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468220/2026",
+        "Folio_Sugo": "260202058CNBASE",
+        "Expediente": "A/TF1-2606-109732-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109732-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468220-2026.doc",
+        "Archivo_XML": "214-1-14468220-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468220/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109732-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000723",
+                "Cnbv_Folio": "109732",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000723/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "PORTAFOLIO INTEGRAL OZ SAS DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "PORTAFOLIO INTEGRAL OZ SAS DE CV",
+                            "Rfc": "PIO191114MM8",
+                            "Relacion": "",
+                            "Domicilio": "PONIENTE 124 396 NUEVA VALLEJO GUSTAVO A MADERO DISTRITO FEDERAL C.P.07750",
+                            "Complementarios": "Y50-65074-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468222/2026",
+        "Folio_Sugo": "260202059CNBASE",
+        "Expediente": "A/TF1-2606-109735-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109735-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468222-2026.doc",
+        "Archivo_XML": "214-1-14468222-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468222/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109735-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000726",
+                "Cnbv_Folio": "109735",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000726/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "SERVICIOS TERRESTRES DE SEGURIDAD PRIVADA SA",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "SERVICIOS TERRESTRES DE SEGURIDAD PRIVADA SA",
+                            "Rfc": "STS0602168K4",
+                            "Relacion": "",
+                            "Domicilio": "BOGOTA 659 102 LINDAVISTA NORTE GUSTAVO A MADER CIUDAD DE MEXICO C.P.07300",
+                            "Complementarios": "Y50-37240-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468226/2026",
+        "Folio_Sugo": "260202060CNBASE",
+        "Expediente": "A/TF1-2606-109752-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109752-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468226-2026.doc",
+        "Archivo_XML": "214-1-14468226-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468226/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109752-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000758",
+                "Cnbv_Folio": "109752",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000758/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "LIMPIEZA INTENSIVA Y SANEAMIENTO ACTIVO DE MEXICO SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "LIMPIEZA INTENSIVA Y SANEAMIENTO ACTIVO DE MEXICO SA DE CV",
+                            "Rfc": "LIS1606068Q3",
+                            "Relacion": "",
+                            "Domicilio": "CALLE 27 282 INT N/A MONTE ALTO AZCAPOTZALCO CIUDAD DE MEXICO C.P. 02640",
+                            "Complementarios": "Y50-50790-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468227/2026",
+        "Folio_Sugo": "260202062CNBASE",
+        "Expediente": "A/TF1-2606-109754-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109754-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468227-2026.doc",
+        "Archivo_XML": "214-1-14468227-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468227/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109754-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000759",
+                "Cnbv_Folio": "109754",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000759/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Fisica",
+                    "Paterno": "SANCHEZ",
+                    "Materno": "CAUDILLO",
+                    "Nombre": "ALMA NIDIA",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Fisica",
+                            "Paterno": "SANCHEZ",
+                            "Materno": "CAUDILLO",
+                            "Nombre": "ALMA NIDIA",
+                            "Rfc": "SACA841101FB7",
+                            "Relacion": "",
+                            "Domicilio": "PONIENTE 106 120 DEFENSORES DE LA REPUBL GUSTAVO A. MADERO CIUDAD DE MEXCIO C.P. 07780",
+                            "Complementarios": "Y50-67686-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468228/2026",
+        "Folio_Sugo": "260202063CNBASE",
+        "Expediente": "A/TF1-2606-109757-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109757-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468228-2026.doc",
+        "Archivo_XML": "214-1-14468228-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468228/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109757-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000760",
+                "Cnbv_Folio": "109757",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000760/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "FERVAR EMPOTRADOS SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "FERVAR EMPOTRADOS SA DE CV",
+                            "Rfc": "FEM0403254E0",
+                            "Relacion": "",
+                            "Domicilio": "CALZADA DE LAS ARMAS 415 B 4 PROVIDENCIA, AZCAPOTZALCO, DISTRITO FEDERAL C.P. 02440",
+                            "Complementarios": "Y50-53487-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468232/2026",
+        "Folio_Sugo": "260202065CNBASE",
+        "Expediente": "A/TF1-2606-109766-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109766-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468232-2026.doc",
+        "Archivo_XML": "214-1-14468232-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468232/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109766-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000766",
+                "Cnbv_Folio": "109766",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000766/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "MULTISERVICIOS Y SOLUCIONES ALFIL SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "MULTISERVICIOS Y SOLUCIONES ALFIL SA DE CV",
+                            "Rfc": "MSA08021893A",
+                            "Relacion": "",
+                            "Domicilio": "MIGUEL HIDALGO 71 PRIMER PISO COLTONGO AZCAPOTZALCO CIUDAD DE MEXICO C.P.02630",
+                            "Complementarios": "Y52-25844-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-14468233/2026",
+        "Folio_Sugo": "260202066CNBASE",
+        "Expediente": "A/TF1-2606-109768-PHM",
+        "Publicacion": "15-06-2026",
+        "Plazo": "7",
+        "Expediente_Corto": "109768-PHM",
+        "Caratula": "OK",
+        "XML_Status": "OK",
+        "Archivo_Doc": "214-1-14468233-2026.doc",
+        "Archivo_XML": "214-1-14468233-2026.xml",
+        "autoridad_extraida": "EL INSTITUTO MEXICANO DEL SEGURO SOCIAL – COORDINACION DE COBRANZA, SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "214-1-14468233/2026",
+                "Cnbv_NumeroExpediente": "A/TF1-2606-109768-PHM",
+                "Cnbv_SolicitudSiara": "IMSSCC3911/2026/000767",
+                "Cnbv_Folio": "109768",
+                "Cnbv_OficioYear": "2026",
+                "Cnbv_AreaClave": "3",
+                "Cnbv_AreaDescripcion": "ASEGURAMIENTO",
+                "Cnbv_FechaPublicacion": "2026-06-15",
+                "Cnbv_DiasPlazo": "7",
+                "AutoridadNombre": "SUBDELEGACION 1 MAGDALENA DE LAS SALINAS",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "IMSSCOB/39/11/000767/2026",
+                "TieneAseguramiento": "true"
+            },
+            "SolicitudPartes": [
+                {
+                    "ParteId": "1",
+                    "Caracter": "Patrón Determinado",
+                    "Persona": "Moral",
+                    "Paterno": "",
+                    "Materno": "",
+                    "Nombre": "FIAGUBA SA DE CV",
+                    "Rfc": ""
+                }
+            ],
+            "SolicitudesEspecificas": [
+                {
+                    "SolicitudEspecificaId": "1",
+                    "InstruccionesCuentasPorConocer": "Para efectos de la disposición de recursos, se solicita que se instruya a la Institución de Crédito y/o Entidad Financiera para que los depósitos bancarios en cuentas a nombre del patrón, sean puestos a disposición del Instituto Mexicano del Seguro Social, con motivo de satisfacer el interés fiscal, en un término no mayor a tres días hábiles a partir de la recepción de la presente solicitud.\nDicho monto es de $51,300.00  (CINCUENTA Y UN MIL TRESCIENTOS PESOS M.N.), cantidad que fue puesta a disposición. Referente alos embargos previos se ratifica tal y como se indica en su oficio 214-1-6543981/2026 de fecha 29/04/2026, los primeros 4 embargos corresponden al IMSS. Por lo que se confirma la solicitud del que refieren como el 1er embargo del folio IMSSCOB/39/11/000976/2024 de fecha 30/07/2024.\nPara ello, se solicita la transferencia electrónica a la cuenta SPEI 021180550300000764, con No. de Referencia  3511Y5053729**, correspondiente a la Institución Bancaria HSBC MÉXICO, S.A., número de banco 021, o la expedición de un cheque de caja a nombre del INSTITUTO MEXICANO DEL SEGURO SOCIAL hasta por el monto requerido o, en su caso, por el saldo existente en la cuenta bancaria.\nSe autoriza al C. ABISAI LARA CARRILLO, personal a cargo de esta autoridad fiscal, para la recepción y entrega del título de crédito invocado, identificándose plenamente. Asimismo, se solicita que se remita el título de crédito requerido a esta Oficina de Cobros, de la Subdelegación 1 Magdalena de las Salinas, con domicilio en: Eje 4 Nte. Av. Fortuna Número 215, Col. Magdalena de las Salinas, Alcaldía Gustavo A. Madero, C.P. 07760, Ciudad de México. Tel: (55) 5747 3500 ext. 25214",
+                    "PersonasSolicitud": [
+                        {
+                            "PersonaId": "1",
+                            "Caracter": "Patrón Determinado",
+                            "Persona": "Moral",
+                            "Paterno": "",
+                            "Materno": "",
+                            "Nombre": "FIAGUBA SA DE CV",
+                            "Rfc": "FIA1808201E1",
+                            "Relacion": "",
+                            "Domicilio": "BOGOTA 633 LINDAVISTA SUR GUSTAVO A. MADERO DISTRITO FEDERAL C.P. 07300",
+                            "Complementarios": "Y50-53729-10"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Oficio": "214-1-796462/2026",
+        "Folio_Sugo": "260202497CNBAMP",
+        "Expediente": "A/AR2-2606-112465-VVV",
+        "Publicacion": "15-06-2026",
+        "Plazo": "2",
+        "Expediente_Corto": "112465-VVV",
+        "Caratula": "OK",
+        "XML_Status": "ERROR",
+        "Archivo_Doc": "214-1-796462-2026.doc",
+        "Archivo_XML": "",
+        "autoridad_extraida": "EL PODER JUDICIAL DE LA FEDERACION",
+        "xml_extraido": {
+            "DatosGenerales": {
+                "Cnbv_NumeroOficio": "",
+                "Cnbv_NumeroExpediente": "",
+                "Cnbv_SolicitudSiara": "",
+                "Cnbv_Folio": "",
+                "Cnbv_OficioYear": "",
+                "Cnbv_AreaClave": "",
+                "Cnbv_AreaDescripcion": "",
+                "Cnbv_FechaPublicacion": "",
+                "Cnbv_DiasPlazo": "",
+                "AutoridadNombre": "",
+                "NombreSolicitante": "",
+                "Referencia": "",
+                "Referencia1": "",
+                "Referencia2": "",
+                "TieneAseguramiento": ""
+            },
+            "SolicitudPartes": [],
+            "SolicitudesEspecificas": []
+        }
+    }
+]
