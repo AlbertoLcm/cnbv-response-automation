@@ -1,0 +1,26 @@
+# Outputs generados por el proceso
+dist/
+
+# Checkpoints temporales
+*.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Credenciales (nunca subir al repositorio)
+credenciales.json
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
