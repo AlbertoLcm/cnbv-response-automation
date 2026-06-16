@@ -216,31 +216,28 @@ async def enrich_layout_with_folio_sugo(
     excel_file: str,
     output_excel: str,
     output_csv_temporal: str,
+    user: str,
+    password: str,
 ) -> str | None:
     """
     Lee el layout Excel, extrae el Folio SUGO de cada oficio usando Playwright
     en paralelo y guarda el resultado enriquecido.
 
     Args:
-        excel_file:         Ruta al Excel de entrada (generado por download_files_cnbv).
-        output_excel:       Ruta del Excel de salida con la columna 'Folio Sugo'.
+        excel_file:          Ruta al Excel de entrada (generado por download_files_cnbv).
+        output_excel:        Ruta del Excel de salida con la columna 'Folio Sugo'.
         output_csv_temporal: Ruta del CSV de checkpoint para reanudar si falla.
+        user:                Usuario SUGO.
+        password:            Contraseña SUGO.
 
     Returns:
         'OK' si el proceso finalizó correctamente, None en caso de error.
     """
-    print("\n===============================================")
-    print("        LOGIN EN SUGO (Para Extracción)      ")
-    print("===============================================")
-    user_input = input("Usuario SUGO: ").strip()
-    pass_input = getpass.getpass("Contraseña SUGO: ").strip()
 
     # Carga o reanuda desde checkpoint
     if os.path.exists(output_csv_temporal):
-        print("\n[INFO] Checkpoint encontrado. Retomando progreso...")
         df = pd.read_csv(output_csv_temporal)
     else:
-        print("\n[INFO] Leyendo layout Excel...")
         try:
             df = pd.read_excel(excel_file, dtype=str).fillna("")
         except Exception as exc:
@@ -268,7 +265,7 @@ async def enrich_layout_with_folio_sugo(
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, channel="chrome")
-        storage_state = await login_sugo(browser, user_input, pass_input)
+        storage_state = await login_sugo(browser, user, password)
 
         if not storage_state:
             print("[ERROR] Login fallido. Abortando.")

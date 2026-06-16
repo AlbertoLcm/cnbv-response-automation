@@ -265,29 +265,25 @@ def ejecutar_automatizacion(
 # Entry point del módulo
 # ---------------------------------------------------------------------------
 
-def download_files_cnbv() -> str | None:
+def download_files_cnbv(fecha_inicio: str, fecha_fin: str) -> str | None:
     """
     Orquesta el proceso completo de descarga de archivos del portal CNBV.
+
+    Args:
+        fecha_inicio: Fecha de inicio en formato 'AAAA-MM-DD'.
+        fecha_fin:    Fecha de fin en formato 'AAAA-MM-DD'.
 
     Returns:
         Ruta del archivo Excel de resultados, o None si no hubo datos que exportar.
     """
-    print("=========================================")
-    print("   Bot de Descarga de Acuses (CNBV)      ")
-    print("=========================================\n")
-
-    usuario, password      = cargar_credenciales()
-    fecha_inicio, fecha_fin = obtener_fechas_terminal()
+    usuario, password = cargar_credenciales()
     preparar_entorno()
 
     datos = ejecutar_automatizacion(usuario, password, fecha_inicio, fecha_fin)
 
     if not datos:
-        print("\n⚠️ El proceso finalizó sin resultados para exportar.")
         return None
 
     df = pd.DataFrame(datos)
     df.to_excel(ARCHIVO_LAYOUT_DESCARGAS, index=False)
-    print(f"\n✅ {len(datos)} registros guardados en '{ARCHIVO_LAYOUT_DESCARGAS}'.")
-    print(f"📁 Archivos descargados en '{FOLDER_DOCUMENTS}'.")
     return ARCHIVO_LAYOUT_DESCARGAS
